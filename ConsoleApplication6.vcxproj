@@ -142,6 +142,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DoubleLinkedList.h" />
     <ClInclude Include="DynamicArray.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="SingleLinkedList.h" />

@@ -23,4 +23,14 @@ struct Monster2
 	Monster2 *pNext;
 };
 
+struct Monster3 
+{
+	char name[NAME_LENGTH];
+	int hp;
+	int mp;
+
+	Monster3 *pPrev;
+	Monster3 *pNext;
+};
+
 #endif /*Monster_h*/
